@@ -7,3 +7,5 @@ else:
 
 answer2=str(input('Are you pleased with your plan?   '))
 
+if answer2=='Yes':
+    print('Go ahead with your plan')
