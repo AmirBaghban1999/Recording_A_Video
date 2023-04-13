@@ -5,3 +5,5 @@ if answer=='Yes':
 else:
     print('You can think about going out')
 
+answer2=str(input('Are you pleased with your plan?   '))
+
